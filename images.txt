@@ -3,6 +3,7 @@
 # mongo
 # redis
 # michzimny/learninglocker2-app  #
+michzimny/learninglocker2-app
 michzimny/learninglocker2-nginx
 
 #支持指定架构
