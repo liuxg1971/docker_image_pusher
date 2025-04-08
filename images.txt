@@ -1,6 +1,7 @@
 nginx
 mysql
 mongo
+redis
 michzimny/learninglocker2-app
 michzimny/learninglocker2-nginx
 learninglocker/xapi-service
