@@ -1,6 +1,8 @@
 nginx
 mysql
 mongo
+michzimny/learninglocker2-app
+michzimny/learninglocker2-nginx
 learninglocker/xapi-service
 learninglocker/url-shortener
 learninglocker/xapi-statements
