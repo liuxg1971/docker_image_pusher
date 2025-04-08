@@ -4,12 +4,6 @@ mongo
 redis
 michzimny/learninglocker2-app
 michzimny/learninglocker2-nginx
-learninglocker/xapi-service
-learninglocker/url-shortener
-learninglocker/xapi-statements
-learninglocker/xapi-agents
-learninglocker/xapi-state
-learninglocker/xapi-activities
 
 #支持指定架构
 --platform=linux/arm64 liuxg1971/alist
