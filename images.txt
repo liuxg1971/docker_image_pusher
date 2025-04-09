@@ -2,8 +2,8 @@
 # mysql
 # mongo
 # redis
-michzimny/learninglocker2-app 
-michzimny/learninglocker2-nginx
-
+#michzimny/learninglocker2-app 
+#michzimny/learninglocker2-nginx
+ubuntu:22.04
 #支持指定架构
 --platform=linux/arm64 liuxg1971/alist
