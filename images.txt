@@ -3,7 +3,7 @@
 # mongo
 # redis
 michzimny/learninglocker2-app 
-michzimny/learninglocker2-nginx
+# michzimny/learninglocker2-nginx
 # mongo-express
 # learninglocker/xapi-service
 # learninglocker/xapi-statements
