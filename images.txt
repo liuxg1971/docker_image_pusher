@@ -5,11 +5,11 @@
 #michzimny/learninglocker2-app 
 #michzimny/learninglocker2-nginx
 mongo-express
-learninglocker/xapi-service
-learninglocker/xapi-statements
-learninglocker/xapi-activities
-learninglocker/xapi-agents
-learninglocker/xapi-state
-learninglocker/url-shortener
+# learninglocker/xapi-service
+# learninglocker/xapi-statements
+# learninglocker/xapi-activities
+# learninglocker/xapi-agents
+# learninglocker/xapi-state
+# learninglocker/url-shortener
 #支持指定架构
 --platform=linux/arm64 liuxg1971/alist
