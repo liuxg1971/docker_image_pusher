@@ -1,7 +1,7 @@
 # nginx
 # mysql
 # mongo
-# redis  ##
+# redis  ###
 node:10.24.1
 # michzimny/learninglocker2-app 
 # michzimny/learninglocker2-nginx
