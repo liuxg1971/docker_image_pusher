@@ -2,7 +2,7 @@
 # mysql
 # mongo
 # redis  ##
-node:10-jessie-slim  
+node:18
 # michzimny/learninglocker2-app 
 # michzimny/learninglocker2-nginx
 # mongo-express
